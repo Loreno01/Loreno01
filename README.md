@@ -2,7 +2,7 @@
 
 
    ![Loreno01 GitHub stats](https://github-readme-stats.vercel.app/api?username=Loreno01&show_icons=true&theme=tokyonight&count_private=true)
-   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loreno01&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loreno01&layout=compact&langs_count=6&theme=tokyonight"/>
 
 
 <div style="display: inline_block"><br>
