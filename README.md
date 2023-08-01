@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil!
 
 ![](https://github-readme-stats.vercel.app/api?username=Loreno01&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Loreno01&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](height="200"(https://github-readme-stats.vercel.app/api/top-langs/?username=Loreno01&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact))
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Loreno01&theme=great-gatsby&hide_border=false)<br/>
 
 [![](https://visitcount.itsvg.in/api?id=Loreno01&icon=2&color=2)](https://visitcount.itsvg.in)
