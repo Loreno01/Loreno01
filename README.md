@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao meu perfil!
 
 ![](https://github-readme-stats.vercel.app/api?username=Loreno01&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](height="1000"width="1000"https://github-readme-stats.vercel.app/api/top-langs/?username=Loreno01&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Loreno01&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Loreno01&theme=great-gatsby&hide_border=false)<br/>
 
 [![](https://visitcount.itsvg.in/api?id=Loreno01&icon=2&color=2)](https://visitcount.itsvg.in)
@@ -14,7 +14,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
   
-## Caso queira entrar em contato!
+## Para entrar em contato!
  
 <div> 
   <a href="https://www.instagram.com/loreno_enrique/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
