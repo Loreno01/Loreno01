@@ -1,9 +1,10 @@
 ## Bem-vindo(a) ao meu perfil!
 
+![](https://github-readme-stats.vercel.app/api?username=Loreno01&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Loreno01&theme=great-gatsby&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Loreno01&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-   ![Loreno01 GitHub stats](https://github-readme-stats.vercel.app/api?username=Loreno01&show_icons=true&theme=tokyonight&count_private=true)
-   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loreno01&layout=compact&langs_count=6&theme=tokyonight"/>
-
+[![](https://visitcount.itsvg.in/api?id=Loreno01&icon=2&color=2)](https://visitcount.itsvg.in)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
