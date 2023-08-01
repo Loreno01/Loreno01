@@ -1,11 +1,10 @@
 ## Bem-vindo(a) ao meu perfil!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
-</a>
+<a href="https://github.com/Loreno01/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Loreno01" />
+
+<a href="https://github.com/Loreno01/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Loreno01&layout=dracula_compact&langs_count=8&card_width=320" />
 
 
     
